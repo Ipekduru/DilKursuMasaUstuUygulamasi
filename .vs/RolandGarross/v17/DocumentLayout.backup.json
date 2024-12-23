@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|c:\\users\\\u0130pek\\source\\repos\\rolandgarross\\rolandgarross\\kurlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\kurlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\rolandgarross\\kurlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\kurlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|c:\\users\\\u0130pek\\source\\repos\\rolandgarross\\rolandgarross\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|c:\\users\\\u0130pek\\source\\repos\\rolandgarross\\rolandgarross\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\rolandgarross\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|c:\\users\\\u0130pek\\source\\repos\\rolandgarross\\rolandgarross\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\rolandgarross\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3A256DA-98C1-4ADB-8806-AB8EC3A98BB5}|RolandGarross\\RolandGarross.csproj|solutionrelative:rolandgarross\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kurlar.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Kurlar.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Kurlar.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Kurlar.cs",
+              "RelativeToolTip": "RolandGarross\\Kurlar.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAkwBsBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:39:15.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kurlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Kurlar.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Kurlar.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Kurlar.cs [Design]",
+              "RelativeToolTip": "RolandGarross\\Kurlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:38:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Egitmen.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Egitmen.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Egitmen.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Egitmen.cs",
+              "RelativeToolTip": "RolandGarross\\Egitmen.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAUwEoBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:30:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Egitmen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Egitmen.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Egitmen.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Egitmen.cs [Design]",
+              "RelativeToolTip": "RolandGarross\\Egitmen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:30:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ogrenci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Ogrenci.cs [Design]",
+              "RelativeToolTip": "RolandGarross\\Ogrenci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:00:21.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Program.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Program.cs",
+              "RelativeToolTip": "RolandGarross\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:58:41.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "RolandGarross\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\\u0130pek\\Source\\Repos\\RolandGarross\\RolandGarross\\Ogrenci.cs",
+              "RelativeToolTip": "RolandGarross\\Ogrenci.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAhwIYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:32:41.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
